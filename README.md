@@ -1,2 +1,2 @@
 # ThreeJSTests
-# trying to learn ThreeJS
+Just trying to learn ThreeJS
