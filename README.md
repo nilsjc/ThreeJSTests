@@ -1,2 +1,2 @@
 # ThreeJSTests
-Just trying to learn ThreeJS
+Just some ThreeJS experiments. Nothing special.
